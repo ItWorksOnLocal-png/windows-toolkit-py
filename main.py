@@ -212,7 +212,7 @@ def main():
             main()
 
     except ValueError:
-        print("***Your choice has to be one a number!***")
+        print("***Your choice has to be a number!***")
         main()
 
 
